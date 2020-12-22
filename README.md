@@ -1,2 +1,2 @@
 # toy
-Toy
+This is a toy repo
